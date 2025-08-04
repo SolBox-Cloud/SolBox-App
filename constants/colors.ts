@@ -1,0 +1,15 @@
+export default {
+  background: "#0A0B0F",
+  card: "#1A1B22",
+  cardHover: "#21222A",
+  primary: "#5B4DFF",
+  secondary: "#00E5FF",
+  white: "#FFFFFF",
+  gray: "#AAAAAA",
+  darkGray: "#555555",
+  success: "#00DC82",
+  error: "#FF4D4D",
+  warning: "#FFC107",
+  gradientStart: "#8844FF",
+  gradientEnd: "#00BFFF",
+};
